@@ -1,0 +1,3 @@
+[submodule "qqmusic-server/upstream"]
+	path = qqmusic-server/upstream
+	url = https://github.com/l-1124/QQMusicApi.git
